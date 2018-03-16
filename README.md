@@ -11,6 +11,7 @@ Concepts Ref.
 
 ## Political Economics
 1. Broken Window Fallacy
+2. Skin in the game [ref](https://www.youtube.com/watch?v=vKBZ6po4oCE)
 
 
 ## General Concepts:
