@@ -11,3 +11,8 @@ Concepts Ref.
 
 ## Political Economics
 1. Broken Window Fallacy
+
+
+## General Concepts:
+
+1) The Positive (Negative) Publicity [ref](https://www.facebook.com/almentor.net/videos/885739191587749/)
