@@ -1,19 +1,6 @@
-# CRef
-Concepts Ref.
+# Decentralized History
 
 
-## Negotiation Techniques
-1. Keep it a side (1)
-2. The walk away  (1)
+Decentralise The Human History!
 
-**References**
-1. [1](https://www.facebook.com/almentor.net/videos/907593002735701/)
-
-## Political Economics
-1. Broken Window Fallacy
-2. Skin in the game [ref](https://www.youtube.com/watch?v=vKBZ6po4oCE)
-
-
-## General Concepts:
-
-1) The Positive (Negative) Publicity [ref](https://www.facebook.com/almentor.net/videos/885739191587749/)
+Please check out the [wiki](https://github.com/aabdulwahed/descentralized_history_proposal/wiki). If you have any idea or thought about how the human history could be decentralized, don't hesitate to send me a pull request!
